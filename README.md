@@ -1,6 +1,6 @@
-# Missfortune-market
+# Missfortune market
 
-This was a challenge from FrontEnd Mentor. I added the product as Javascript Objects because I still don't know how to use JSON.
+This was a challenge from FrontEnd Mentor. I added the products as **Javascript Objects** because I still don't know how to use **JSON**.
 
 https://nperkinsr.github.io/missfortune-market/
 
